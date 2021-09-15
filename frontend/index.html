@@ -1,0 +1,21 @@
+<html>
+<head>
+    <title>Musical Bingo</title>
+    <link rel='stylesheet' href='styles.css'/>
+    <script src='https://unpkg.com/vue@next' defer></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js" defer></script>
+    <script src='app.js' defer></script>
+</head>
+<body>
+    <header>
+        <h1>Musical Bingo</h1>
+    </header>
+    <section id='bingo-board'>
+        <table>
+            <tr v-for='row in items'>
+                <td v-for='item in row'>{{ item }}</td>
+            </tr>
+        </table>
+    </section>
+</body>
+</html>
