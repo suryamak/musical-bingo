@@ -5,7 +5,7 @@ const app = Vue.createApp({
         }
     },
     mounted() {
-        axios.get('http://localhost:5000/generate-board')
+        axios.get('https://musical-bingo.herokuapp.com/generate-board')
         .then(response => (this.items = response.data))
         // .then(response => (console.log(response.data)))
     }
