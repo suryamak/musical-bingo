@@ -1,312 +1,450 @@
-Mr. Brightside - The Killers
-Somebody Told Me - The Killers
-Numb - Linkin Park
-Hide and Seek - Imogen Heap
-3 Nights - Dominic Fike
-Waking Up in Vegas - Katy Perry
-Need You Now - Lady A
-Breakeven - The Script
-Heartbreak Warfare - John Mayer
-So What - P!nk
-Paparazzi - Lady Gaga
-Clint Eastwood - Gorillaz
-Take You There - Sean Kingston
-Chop Suey! - System of a Down
-Kickstart My Heart - Motley Crue
-Paranoid - Black Sabbath
-Pretty Fly (for a White Guy) - The Offspring
-Wavin' Flag - K'NAAN
-Forever Young - Jay-Z
-Good Life - OneRepublic
-Just A Dream - Nelly
-I Like It - Enrique Iglesias
-Misery - Maroon 5
-One More Night - Maroon 5
-Vanilla Twilight - Owl City
-When Can I See You Again - Owl City
-Good Time - Owl City
-Forever - Chris Brown
-Savin' Me - Nickelback
-If Today Was Your Last Day - Nickelback
-It's My Life - Bon Jovi
-Livin' On a Prayer - Bon Jovi
-Set Fire To The Rain - Adele
-Love Somebody - Maroon 5
-You're Gonna Go Far, Kid - The Offspring
-The Kids Aren't Alright - The Offpsring
-Beautiful Day - U2
-California (There Is No End to Love) - U2
-With Or Without You - U2
-Team - Lorde
-Green Light - Lorde
-Royals - Lorde
-It's Time - Imagine Dragons
-Demons - Imagine Dragons
-Friction - Imagine Dragons
-Handlebars - Flobots
-Lights - Elie Goulding
-Starry Eyed - Elie Goulding
-The Nights - Avicii
-Levels - Avicii
-How You Remind Me - Nickelback
-The Reason - Hoobastank
-21 Guns - Green Day
-When I Come Around - Green Day
-Holiday - Green Day
-Prayer of the Refugee - Rise Against
-Savior - Rise Against
-This Is Letting Go - Rise Against
-Fat Lip - Sum 41
-Walking Disaster - Sum 41
-The Hell Song - Sum 41
-Everlong - Foo Fighters
-Uprising - Muse
-If I Lose Myself - OneRepublic
-The Man Who Can't Be Moved - The Script
-Yellow - Coldplay
-The Scientist - Coldplay
-Every Teardrop Is A Waterfall - Coldplay
-Island In The Sun - Weezer
-Say It Ain't So - Weezer
-Buddy Holly - Weezer
-I Will Wait - Mumford and Sons
-Everybody Talks - Neon Trees
-Tighten Up - Black Keys
-Am I Wrong - Nico & Vinz
-Dance, Dance - Fall Out Boy
-Under the Bridge - Red Hot Chili Peppers
-Californication - Red Hot Chili Peppers
-Otherside - Red Hot Chili Peppers
-Cool Kids - Echosmith
-Never Forget You - Zara Larsson
-Wildest Dreams - Taylor Swift
-Latch - Disclosure
-Little Talks - Of Monsters And Men
-All Time Low - Jon Bellion
-Ho Hey - The Lumineers
-Weak - AJR
-Bang! - AJR
-Way Less Sad - AJR
-King's Dead - Jay Rock
-Panini - Lil Nas X
-ROCKSTAR - DaBaby
-my ex's best friend - Machine Gun Kelly
-Circles - Post Malone
-Thnks fr th Mmrs - Fall Out Boy
-Stairway to Heaven - Led Zeppelin
-Here Comes the Sun - The Beatles
-Paradise City - Guns n' Roses
-Dream On - Aerosmith
-It's Tricky - Run DMC
-Turbo Lover - Judas Priest
-Another Day In Paradise - Phil Collins
-Danger Zone - Kenny Loggins
-Shelter - Porter Robinson
-good 4 u - Olivia Rodrigo
-driver's license - Olivia Rodrigo
-Can't Take - 12xAM
-Cartier Tears - 12xAM
-Casanova - 12xAM
-Homecoming - Kanye West
-All of The Lights - Kanye West
-Flashing Lights - Kanye West
-No Role Modelz - J. Cole
-Crooked Smile - J. Cole
-LOVE - Kendrick Lamar
-A.D.H.D - Kendrick Lamar
-DNA - Kendrick Lamar
-The Box - Roddy Rich
-Close the Door - Weston Estate
-Saturday Nights - Weston Estate
-SAD MACHINE - Maasho
-Sad Machine - Porter Robinson
-Wells Fargo - Dreamville
-Down Bad - Dreamville
-Costa Rica - Dreamville
-My Generation - The Who
-My Name Is - Eminem
-Bohemian Rhapsody - Queen
-Bicycle - Queen
-Tyler Herro - Jack Harlow
-WHATS POPPIN - Jack Harlow
-INDUSTRY BABY - Lil Nas X
-C7osure (You Like) - Lil Nas X
-BUTTERFLY EFFECT - Travis Scott
-YOSEMITE - Travis Scott
-Big Shot - Travis Scott
-Overdue - Metro Boomin
-BBO - Migos
-Bad and Boujee - Migos
-Stir Fry - Migos
-Issues - Julia Michaels
-Nice For What - Drake
-Hardest To Love - The Weekend
-Sleep Now In The Fire - Rage Against the Machine
-Bulls On Parade - Rage Against the Machine
-Intro - The xx
-Sweet But Psycho - Ava Max
-Iris - The Goo Goo Dolls
-Good Things Fall Apart - ILLENIUM
-Take You Down - ILLENIUM
-Sugar, We're Going Down - Fall Out Boy
-XO Tour LLif3 - Lil Uzi Vert
-The Way Life Goes - Lil Uzi Vert
-Starlight - Muse
-Madness - Muse
-Undercover Martyn - Two Door Cinema Club
-Out of My League - Fitz and the Tantrums
-HandClap - Fitz and The Tantrums
-99 Luftballons - Nena
-Ain't it Fun - Paramore
-Misery Business - Paramore
-Love Me Harder - Ariana Grande
-breathin - Ariana Grande
-Mine - Bazzi
-Paradise - Coldplay
-Yesterday - The Beatles
-You Belong With Me - Taylor Swift
-Go Stupid - Polo G
-Ride - Twenty One Pilots
-Car Radio - Twenty One Pilots
-Sloppy Seconds - Watsky
-Can't Stop - Red Hot Chili Peppers
-Take Me Out - Franz Ferdinand
-Scary Monsters and Nice Sprites - Skrillex
-Bangarang - Skrillex
-Smells Like Teen Spirit - Nirvana
-Come As You Are - Nirvana
-Heart Shaped Box - Nirvana
-Clocks - Coldplay
-2019 Guy - The Gentle Men
-stupid horse - 100 gecs
-hand crushed by mallet - 100 gecs
-River Flows in You - Yiruma
-Sidewalks - The Weeknd
-I Feel It Coming - The Weeknd
-Pompeii - Bastille
-Electric Feel - MGMT
-Kids - MGMT
-Midnight City - M83
-What You Know - Two Door Cinema Club
-Wonderwall - Oasis
-1985 - Bowling For Soup
-Take a Walk - Passion Pit
-The A Team - Ed Sheeran
-Castle on The Hill - Ed Sheeran
-STARGAZING - Travis Scott
-Whatever It Takes - Imagine Dragons
-Reborn - KIDS SEE GHOSTS
-Lemon - N.E.R.D
-Watch - Travis Scott
-Icon - Jaden
-Powerglide - Rae Sremmurd
-What's Up Danger - Blackway
-Howlin' for You - The Black Keys
-100 Bad Days - AJR
-Anna Sun - WALK THE MOON
-Shut Up and Dance - WALK THE MOON
-One Foot - WALK THE MOON
-Do I Wanna Know? - Arctic Monkeys
-RNP - Cordae
-broken - lovelytheband
-High Horse - Kacey Musgraves
-Cocoon - Catfish and The Bottlemen
-Noticed - Lil Mosey
-Blueberry Faygo - Lil Mosey
-Rodeo - Lil Nas X
-i like me better - Lauv
-Modern Loneliness - Lauv
-Love Again - Dua Lipa
-Die Very Rough - Mario Judah
-Get Lucky - Daft Punk
-Robot Rock - Daft Punk
-Harder, Better, Faster, Stronger - Daft Punk
-Lemonade - Internet Money
-astrid - glaive
-Lean On - Major Lazer
-Cold Water - Major Lazer
-Elevate - DJ Khalil
-Guerrilla Radio - Rage Againt the Machine
-ID - Kygo
-It Ain't Me - Kygo
-DJ Got Us Fallin' In Love - Usher
-OMG - Usher
-Look At Me! - XXXTENTACION
-SAD! - XXXTENTACION
-Enter Sandman - Metallica
-Fuel - Metallica
-One - Metallica
-Animal I Have Become - Three Days Grace
-Riot - Three Days Grace
-Little Talks - Of Monsters and Men
-King and Lionheart - Of Monsters and Men
-Mountain Sound - Of Monsters and Men
-Welcome to the Black Parade - My Chemical Romance
-Teenagers - My Chemical Romance
-EARFQUAKE - Tyler, The Creator
-See You Again - Tyler, The Creator
-Second Chance - Shinedown
-Through The Fire and the Flames - DragonForce
-Hells Bells - AC/DC
-T.N.T. - AC/DC
-I Bet You Look Good on the Dancefloor - Arctic Monkeys
-1979 - Smashing Pumpkins
-Santeria - Sublime
-Adventure of a Lifetime - Coldplay
-This is War - Thirty Seconds to Mars
-Closer to the Edge - Thirty Seconds to Mars
-Feel It Still - Portugal. The Man
-Chasing Cars - Snow Patrol
-Sweater Weather - The Neighborhood
-Thinkin Bout You - Frank Ocean
-Nights - Frank Ocean
-NO HALO - BROCKHAMPTON
-SWEET - BROCKHAMPTON
-SUGAR - BROCKHAMPTON
-Electric Love - BORNS
-KOD - J. Cole
-FRIENDS - J. Cole
-3005 - Childish Gambino
-IV. Sweatpants - Childish Gambino
-Bonfire - Childish Gambino
-Unforgettable - French Montana
-ZEZE - Kodak Black
-Way Up - Jaden
-Scared Of The Dark - Lil Wayne
-Mirror - Lil Wayne
-IANAHB - Lil Wayne
-Futsal Shuffle 2020 - Lil Uzi Vert
-Hard - No Jumper
-Derezzed - Daft Punk
-Pumped Up Kicks - Foster The People
-Helena Beat - Foster The People
-Sit Next To Me - Foster The People
-I Write Sins Not Tragedies - Panic! At The Disco
-Hall Of Fame - The Script
-Walking On A Dream - Empire of the Sun
-Shooting Stars - Bag Raiders
-Something Better - Audien
-NEVER MET! - CMTEN
-Imperium - Madeon
-My Type - Saint Motel
-Down By The River - Milky Chance
-The Less I Know The Better - Tame Impala
-BURN IT DOWN - Linkin Park
-Waiting For The End - Linkin Park
-Crawling - Linkin Park
-Resistance - Muse
-Stop And Stare - OneRepublic
-Apologize - OneRepublic
-Remember the Name - Fort Minor
-Believe Me - Fort Minor
-Here - Alessia Cara
-Scars to Your Beautiful - Alessia Cara
-KDV - MISSIO
-Big Pimpin' - JAY-Z
-Airplanes - B.o.B
-Nothin' On You - B.o.B
-We Will Fall Together - Streetlight Manifesto
-Your Body is a Wonderland - John Mayer
-The Cave - Mumford and Sons
-Mask Off - Future
-Black Beatles - Rae Sremmurd
+The Killers - Mr. Brightside
+The Killers - Somebody Told Me
+Linkin Park - Numb
+Imogen Heap - Hide and Seek
+Dominic Fike - 3 Nights
+Katy Perry - Waking Up in Vegas
+Lady A - Need You Now
+The Script - Breakeven
+John Mayer - Heartbreak Warfare
+P!nk - So What
+Lady Gaga - Paparazzi
+Gorillaz - Clint Eastwood
+Sean Kingston - Take You There
+System of a Down - Chop Suey!
+Motley Crue - Kickstart My Heart
+Black Sabbath - Paranoid
+The Offspring - Pretty Fly (for a White Guy)
+K'NAAN - Wavin' Flag
+Jay-Z - Forever Young
+OneRepublic - Good Life
+Nelly - Just A Dream
+Enrique Iglesias - I Like It
+Maroon 5 - Misery
+Maroon 5 - One More Night
+Owl City - Vanilla Twilight
+Owl City - When Can I See You Again
+Owl City - Good Time
+Chris Brown - Forever
+Nickelback - Savin' Me
+Nickelback - If Today Was Your Last Day
+Bon Jovi - It's My Life
+Bon Jovi - Livin' On a Prayer
+Adele - Set Fire To The Rain
+Maroon 5 - Love Somebody
+The Offspring - You're Gonna Go Far, Kid
+The Offpsring - The Kids Aren't Alright
+U2 - Beautiful Day
+U2 - California (There Is No End to Love)
+U2 - With Or Without You
+Lorde - Team
+Lorde - Green Light
+Lorde - Royals
+Imagine Dragons - It's Time
+Imagine Dragons - Demons
+Imagine Dragons - Friction
+Flobots - Handlebars
+Ellie Goulding - Lights
+Ellie Goulding - Starry Eyed
+Avicii - The Nights
+Avicii - Levels
+Nickelback - How You Remind Me
+Hoobastank - The Reason
+Green Day - 21 Guns
+Green Day - When I Come Around
+Green Day - Holiday
+Rise Against - Prayer of the Refugee
+Rise Against - Savior
+Rise Against - This Is Letting Go
+Sum 41 - Fat Lip
+Sum 41 - Walking Disaster
+Sum 41 - The Hell Song
+Foo Fighters - Everlong
+Muse - Uprising
+OneRepublic - If I Lose Myself
+The Script - The Man Who Can't Be Moved
+Coldplay - Yellow
+Coldplay - The Scientist
+Coldplay - Every Teardrop Is A Waterfall
+Weezer - Island In The Sun
+Weezer - Say It Ain't So
+Weezer - Buddy Holly
+Mumford and Sons - I Will Wait
+Neon Trees - Everybody Talks
+Black Keys - Tighten Up
+Nico & Vinz - Am I Wrong
+Fall Out Boy - Dance, Dance
+Red Hot Chili Peppers - Under the Bridge
+Red Hot Chili Peppers - Californication
+Red Hot Chili Peppers - Otherside
+Echosmith - Cool Kids
+Zara Larsson - Never Forget You
+Taylor Swift - Wildest Dreams
+Disclosure - Latch
+Of Monsters And Men - Little Talks
+Jon Bellion - All Time Low
+The Lumineers - Ho Hey
+AJR - Weak
+AJR - Bang!
+AJR - Way Less Sad
+Jay Rock - King's Dead
+Lil Nas X - Panini
+DaBaby - ROCKSTAR
+Machine Gun Kelly - my ex's best friend
+Post Malone - Circles
+Fall Out Boy - Thnks fr th Mmrs
+Led Zeppelin - Stairway to Heaven
+The Beatles - Here Comes the Sun
+Guns N' Roses - Paradise City
+Aerosmith - Dream On
+Run DMC - It's Tricky
+Judas Priest - Turbo Lover
+Phil Collins - Another Day In Paradise
+Kenny Loggins - Danger Zone
+Porter Robinson - Shelter
+Olivia Rodrigo - good 4 u
+Olivia Rodrigo - driver's license
+12xAM - Can't Take
+12xAM - Cartier Tears
+12xAM - Casanova
+Kanye West - Homecoming
+Kanye West - All of The Lights
+Kanye West - Flashing Lights
+J. Cole - No Role Modelz
+J. Cole - Crooked Smile
+Kendrick Lamar - LOVE.
+Kendrick Lamar - A.D.H.D
+Kendrick Lamar - D.N.A.
+Roddy Rich - The Box
+Weston Estate - Close the Door
+Weston Estate - Saturday Nights
+Maasho - SAD MACHINE
+Porter Robinson - Sad Machine
+Dreamville - Wells Fargo
+Dreamville - Down Bad
+Dreamville - Costa Rica
+The Who - My Generation
+Eminem - My Name Is
+Queen - Bohemian Rhapsody
+Queen - Bicycle
+Jack Harlow - Tyler Herro
+Jack Harlow - WHATS POPPIN
+Lil Nas X - INDUSTRY BABY
+Lil Nas X - C7osure (You Like)
+Travis Scott - BUTTERFLY EFFECT
+Travis Scott - YOSEMITE
+Travis Scott - Big Shot
+Metro Boomin - Overdue
+Migos - BBO
+Migos - Bad and Boujee
+Migos - Stir Fry
+Julia Michaels - Issues
+Drake - Nice For What
+The Weeknd - Hardest To Love
+Rage Against the Machine - Sleep Now In The Fire
+Rage Against the Machine - Bulls On Parade
+The xx - Intro
+Ava Max - Sweet But Psycho
+The Goo Goo Dolls - Iris
+ILLENIUM - Good Things Fall Apart
+ILLENIUM - Take You Down
+Fall Out Boy - Sugar, We're Going Down
+Lil Uzi Vert - XO Tour LLif3
+Lil Uzi Vert - The Way Life Goes
+Muse - Starlight
+Muse - Madness
+Two Door Cinema Club - Undercover Martyn
+Fitz and the Tantrums - Out of My League
+Fitz and The Tantrums - HandClap
+Nena - 99 Luftballons
+Paramore - Ain't it Fun
+Paramore - Misery Business
+Ariana Grande - Love Me Harder
+Ariana Grande - breathin
+Bazzi - Mine
+Coldplay - Paradise
+The Beatles - Yesterday
+Taylor Swift - You Belong With Me
+Polo G - Go Stupid
+Twenty One Pilots - Ride
+Twenty One Pilots - Car Radio
+Watsky - Sloppy Seconds
+Red Hot Chili Peppers - Can't Stop
+Franz Ferdinand - Take Me Out
+Skrillex - Scary Monsters and Nice Sprites
+Skrillex - Bangarang
+Nirvana - Smells Like Teen Spirit
+Nirvana - Come As You Are
+Nirvana - Heart Shaped Box
+Coldplay - Clocks
+The Gentle Men - 2019 Guy
+100 gecs - stupid horse
+100 gecs - hand crushed by mallet
+Yiruma - River Flows in You
+The Weeknd - Sidewalks
+The Weeknd - I Feel It Coming
+Bastille - Pompeii
+MGMT - Electric Feel
+MGMT - Kids
+M83 - Midnight City
+Two Door Cinema Club - What You Know
+Oasis - Wonderwall
+Bowling For Soup - 1985
+Passion Pit - Take a Walk
+Ed Sheeran - The A Team
+Ed Sheeran - Castle on The Hill
+Travis Scott - STARGAZING
+Imagine Dragons - Whatever It Takes
+KIDS SEE GHOSTS - Reborn
+N.E.R.D - Lemon
+Travis Scott - Watch
+Jaden - Icon
+Rae Sremmurd - Powerglide
+Blackway - What's Up Danger
+The Black Keys - Howlin' for You
+AJR - 100 Bad Days
+WALK THE MOON - Anna Sun
+WALK THE MOON - Shut Up and Dance
+WALK THE MOON - One Foot
+Arctic Monkeys - Do I Wanna Know?
+Cordae - RNP
+lovelytheband - broken
+Kacey Musgraves - High Horse
+Catfish and The Bottlemen - Cocoon
+Lil Mosey - Noticed
+Lil Mosey - Blueberry Faygo
+Lil Nas X - Rodeo
+Lauv - i like me better
+Lauv - Modern Loneliness
+Dua Lipa - Love Again
+Mario Judah - Die Very Rough
+Daft Punk - Get Lucky
+Daft Punk - Robot Rock
+Daft Punk - Harder, Better, Faster, Stronger
+Internet Money - Lemonade
+glaive - astrid
+Major Lazer - Lean On
+Major Lazer - Cold Water
+DJ Khalil - Elevate
+Rage Againt the Machine - Guerrilla Radio
+Kygo - ID
+Kygo - It Ain't Me
+Usher - DJ Got Us Fallin' In Love
+Usher - OMG
+XXXTENTACION - Look At Me!
+XXXTENTACION - SAD!
+Metallica - Enter Sandman
+Metallica - Fuel
+Metallica - One
+Three Days Grace - Animal I Have Become
+Three Days Grace - Riot
+Of Monsters and Men - Little Talks
+Of Monsters and Men - King and Lionheart
+Of Monsters and Men - Mountain Sound
+My Chemical Romance - Welcome to the Black Parade
+My Chemical Romance - Teenagers
+Tyler, The Creator - EARFQUAKE
+Tyler, The Creator - See You Again
+Shinedown - Second Chance
+DragonForce - Through The Fire and the Flames
+AC/DC - Hells Bells
+AC/DC - T.N.T.
+Arctic Monkeys - I Bet You Look Good on the Dancefloor
+Smashing Pumpkins - 1979
+Sublime - Santeria
+Coldplay - Adventure of a Lifetime
+Thirty Seconds to Mars - This is War
+Thirty Seconds to Mars - Closer to the Edge
+Portugal. The Man - Feel It Still
+Snow Patrol - Chasing Cars
+The Neighborhood - Sweater Weather
+Frank Ocean - Thinkin Bout You
+Frank Ocean - Nights
+BROCKHAMPTON - NO HALO
+BROCKHAMPTON - SWEET
+BROCKHAMPTON - SUGAR
+BORNS - Electric Love
+J. Cole - KOD
+J. Cole - FRIENDS
+Childish Gambino - 3005
+Childish Gambino - IV. Sweatpants
+Childish Gambino - Bonfire
+French Montana - Unforgettable
+Kodak Black - ZEZE
+Jaden - Way Up
+Lil Wayne - Scared Of The Dark
+Lil Wayne - Mirror
+Lil Wayne - IANAHB
+Lil Uzi Vert - Futsal Shuffle 2020
+No Jumper - Hard
+Daft Punk - Derezzed
+Foster The People - Pumped Up Kicks
+Foster The People - Helena Beat
+Foster The People - Sit Next To Me
+Panic! At The Disco - I Write Sins Not Tragedies
+The Script - Hall Of Fame
+Empire of the Sun - Walking On A Dream
+Bag Raiders - Shooting Stars
+Audien - Something Better
+CMTEN - NEVER MET!
+Madeon - Imperium
+Saint Motel - My Type
+Milky Chance - Down By The River
+Tame Impala - The Less I Know The Better
+Linkin Park - BURN IT DOWN
+Linkin Park - Waiting For The End
+Linkin Park - Crawling
+Muse - Resistance
+OneRepublic - Stop And Stare
+OneRepublic - Apologize
+Fort Minor - Remember the Name
+Fort Minor - Believe Me
+Alessia Cara - Here
+Alessia Cara - Scars to Your Beautiful
+MISSIO - KDV
+JAY-Z - Big Pimpin'
+B.o.B - Airplanes
+B.o.B - Nothin' On You
+Streetlight Manifesto - We Will Fall Together
+John Mayer - Your Body is a Wonderland
+Mumford and Sons - The Cave
+Future - Mask Off
+Rae Sremmurd - Black Beatles
+Queen - We Are The Champions
+Queen - Don't Stop Me Now
+Rihanna - Disturbia
+Rihanna - Stay
+Eminem - The Monster
+Kali Uchis - telepatia
+Dua Lipa - Don't Start Now
+Dua Lipa - Levitating
+J. Cole - 9 5 . s o u t h
+Juice WRLD - Lucid Dreams
+The Weeknd - The Hills
+Gorillaz - Feel Good Inc.
+Fort Minor - Where'd You Go
+Taylor Swift - New Romantics
+Kelly Clarkson - I Do Not Hook Up
+Maasho - Fresh Air
+Red Hot Chili Peppers - Dani California
+Bon Jovi - Wanted Dead Or Alive
+Lauv - There's No Way
+Martin Garrix - Animals
+Of Monsters and Men - Visitor
+Madeon - Finale
+Kings of Leon - Use Somebody
+Avicii - Hey Brother
+Green Day - Warning
+a-ha - Take on Me
+Flo Rida - Right Round
+Macklemore & Ryan Lewis - Can't Hold Us
+Foo Fighters - Monkey Wrench
+Jason Derulo - In My Head
+Jason Derulo - Whatcha Say
+Daniel Powter - Bad Day
+Post Malone - Sunflower
+System Of a Down - Toxicity
+Chef Zoot - Late Night
+Chef Zoot - Duckface
+Kanye West - Gold Digger
+TOTO - Africa
+AC/DC - Highway to Hell
+Lupe Fiasco - The Show Goes On
+Train - Drive By
+Train - Hey, Soul Sister
+Train - Drops of Jupiter
+Train - 50 Ways to Say Goodbye
+Jennifer Lopez - On The Floor
+The Fray - Never Say Never
+The Fray - Over My Head (Cable Car)
+The Fray - How to Save A Life
+Flo Rida - Club Can't Handle Me
+Maroon 5 - Makes Me Wonder
+Eminem - Not Afraid
+Joji - SLOW DANCING IN THE DARK
+Kanye West - Waves
+Jaden - GOKU
+The Outfield - Your Love
+Lil Uzi Vert - P2
+The All-American Rejects - Move Along
+Ed Sheeran - Sing
+Metro Boomin - Space Cadet
+U2 - Sunday Bloody Sunday
+Beyonce - Sweet Dreams
+Fall Out Boy - I Don't Care
+Goldfinger - 99 Red Balloons
+JAY-Z - Numb / Encore
+Gotye - Somebody That I Used To Know
+Santana - Smooth
+Foo Fighters - The Pretender
+Akon - Don't Matter
+Post Malone - Better Now
+Post Malone - Congratulations
+Kelly Clarkson - Already Gone
+NF - Let You Down
+Avicii - Waiting For Love
+Finger Eleven - Paralyzer
+OneRepublic - All The Right Moves
+Jay Sean - Down
+The Weeknd - Escape From LA
+Arizona Zervas - ROXANNE
+Phillip Phillips - Home
+Phillip Phillips - Gone, Gone, Gone
+Kid Cudi - Day 'N' Nite (nightmare)
+Kid Cudi - Up Up & Away
+Zedd - Stay
+Zedd - Clarity
+Lifehouse - Halfway Gone
+Shakira - She Wolf
+Shakira - Whenever, Whenever
+Shakira - Can't Remember To Forget You
+John Denver - Take Me Home, Country Roads
+Kendrick Lamar - HUMBLE.
+Nickelback - Photograph
+David Guetta - Titanium
+Ed Sheeran - Perfect
+Christina Perri - Jar of Hearts
+The Lonely Island - Threw It On The Ground
+Ellie Goulding - Burn
+Journey - Open Arms
+Journey - Don't Stop Believin'
+Lesthegenius - Raleighwood Hills
+Drake - Nonstop
+Drake - One Dance
+Drake - Hold On, We're Going Home
+Taio Cruz - Dynamite
+Passenger - Let Her Go
+Jordin Sparks - Battlefield
+Lady Gaga - Just Dance
+Lady Gaga - Poker Face
+Lady Gaga - Bad Romance
+Guns N' Roses - Knockin' On Heaven's Door
+Guns N' Roses - Welcome To The Jungle
+Pitbull - We Are One (Ole Ola)
+Mike Posner - Cooler Than Me
+Bruno Mars - Locked Out Of Heaven
+Bruno Mars - Grenade
+Bruno Mars - Just The Way You Are
+Bruno Mars - 24K Magic
+Black Eyed Peas - Boom Boom Pow
+Marco Luka - paradise
+Eagles - Hotel California
+La Roux - Bulletproof
+Justin Timberlake - SexyBack
+Justin Timberlake - Mirrors
+Justin Timberlake - Suit & Tie
+Michael Buble - Haven't Met You Yet
+Ed Sheeran - Lego House
+B.o.B - Created a Monster
+Macklemore & Ryan Lewis - Thrift Shop
+David Guetta - Sexy Chick
+Taylor Swift - I Knew You Were Trouble
+Eminem - Love The Way You Lie
+Knife Party - Rage Valley
+The Chainsmokers - Don't Let Me Down
+Daya - Sit Still, Look Pretty
+Adele - Rolling In The Deep
+Adele - Someone Like You
+Eminem - Lucky You
+Katy Perry - Hot N Cold
+Katy Perry - Last Friday Night (T.G.I.F.)
