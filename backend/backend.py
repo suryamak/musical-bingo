@@ -14,7 +14,7 @@ def ping():
 @cross_origin()
 def generate():
     items = []
-    with open('txt/cleaned_items.txt', 'r') as file:
+    with open('txt/selected_items.txt', 'r') as file:
         items_raw = file.read()
         items = items_raw.split('\n')
         random.shuffle(items)
